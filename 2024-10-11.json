@@ -1,0 +1,26 @@
+{
+  "name": "Verna Manning",
+  "age": 47,
+  "address": {
+    "street": "Nuuje Drive",
+    "city": "Bampeesi",
+    "state": "RI",
+    "zip": "89299"
+  },
+  "contact": {
+    "phone": "(212) 553-6602",
+    "servicePhone": "800717948"
+  },
+  "birthday": "1999-08-13T09:51:06.616Z",
+  "ip": "154.151.190.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Jupiwe kulha uke elaulume ilebaw bahmob bacge bifkeppi kitat vunihupic tif fu. Fernef wew onoli esudavlif kumirraf ceawoir efeami aw bavjasiw de sugas bohmi. Usalagwi fe fima jarujid majogace ku uw vez ibadab escun ijuolecov vimven senaj vifoomo we nad. Ecape feal ucima bijhu iddo okihude atu da zozalub ew maf vah fe. Mad mega liwilit hem vukit ipuiji epkonep dolku piw birutze geveza cu ri reluprem.",
+    "bio": "Hugrimgu fabrifmah battol tetanbef uwpa ociegito woliguc wu uhavumrof dukegij nugo merrur pisoh. Etapiwpu tobo nefezi ojhag itubekze jat juhe koemuogi la ra pezisaw sotla vudiile inusozjog mitrinlem lo. Mov le zuule soh wepucawok ivaogi pe tuwjato mipbisgi iziwpig cezu fuf ewjejud rumtaen wop zos."
+  },
+  "apiKey": "a387df4129270518c84720209fdcc442111ff56f41c4bf565a3e90b98d53fc58",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberia Dollar"
+  }
+}
