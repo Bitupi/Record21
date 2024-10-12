@@ -1,0 +1,26 @@
+{
+  "name": "Alta Griffith",
+  "age": 46,
+  "address": {
+    "street": "Bagha Circle",
+    "city": "Kaakkup",
+    "state": "MO",
+    "zip": "81264"
+  },
+  "contact": {
+    "phone": "(755) 657-1918",
+    "servicePhone": "800583523"
+  },
+  "birthday": "1997-05-20T09:17:41.978Z",
+  "ip": "54.187.237.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Usu agu zihevovi avgud nuzta gul ihepulez ufehozvik zo unkuv pipom unufi. Onacigic lenmeskot doejate fuvzelun sup rija julzuf soctajvaw co daemwe cokbizaw ebiveruv ofasait gupaf pedmit. Iguuzwig guf ifimi fehsuuro bezod gi beti zefoza zuj wovtu coafe utu pitlohlu godudo kivwafnas.",
+    "bio": "Wiwwizin naz fen po ho winebo ehi cezsav sutgiaha di gizula itepo zo uz. Meclo or jifajo sip vej luopbon if lo cosihva ew luz wusine jovabeses awaniinu hid hikkur. Fow vu ko ol cu la bezi efi recun kik kico et puwfagruh wubdasod."
+  },
+  "apiKey": "5ca4cdac538b8fb440ff86869d5316b9db8c9cbbf24bbaae3d9c01a26fe00189",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
