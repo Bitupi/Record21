@@ -1,0 +1,26 @@
+{
+  "name": "Lawrence Lucas",
+  "age": 48,
+  "address": {
+    "street": "Romedo Pike",
+    "city": "Susfumic",
+    "state": "OH",
+    "zip": "11331"
+  },
+  "contact": {
+    "phone": "(760) 296-3437",
+    "servicePhone": "800714421"
+  },
+  "birthday": "1966-06-07T05:00:03.995Z",
+  "ip": "111.233.94.208",
+  "foo": "bar",
+  "profile": {
+    "about": "Co ha saz cunevram ridov se zulif gavwa adcihri iv luovomi ahnoure tepihev kew. Fevbesasa tuspi wehasabo wuis jafpon uzaoli zorroaki hi mororvo hisifuw tin jihwagpi jifvaz dov mu igpuco. Jozive neow fin lezeswo fe bu ma hirahgo ag de goj pod.",
+    "bio": "Macwilu di uno gep mulikug givdu epnooli ugadedo wecute fe ci safsem met goemo. Nusub kumifu uraleti ij eciis mewfuwaz er lihbaetu vakpeka lo bel li boik cob seur de itu rov. Upehuhnev kew het tehud te ve fughawihe japeh pu beb zobro conetrac iwu in. Gic ameva tukcavnek zisahvu boghapup za woje neroz zakaka huji div bu cioce puzka zew ci kokkirni. Uci owu dejafo beza mibaiki regu va kibufe ine onko lo puj jigeetu faw awabhol. Ge ofsauc re nobbi fadij asi vo wedpi gad fi nufselhu fubkabun eci asilab juw seztejve femsacuk. Deglamruc mejdune fev ce caf tiweltar ropopi bu wi ezu wal pe fez lu pullo okca."
+  },
+  "apiKey": "4177c6f219f9264a52ddd845da551cc8a798cd9193db923d965e2a029f958766",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
