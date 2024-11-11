@@ -1,0 +1,26 @@
+{
+  "name": "Glen Patton",
+  "age": 64,
+  "address": {
+    "street": "Cahsu Road",
+    "city": "Keberja",
+    "state": "WI",
+    "zip": "15534"
+  },
+  "contact": {
+    "phone": "(334) 654-3623",
+    "servicePhone": "800418532"
+  },
+  "birthday": "1990-12-31T01:27:14.179Z",
+  "ip": "82.84.41.217",
+  "foo": "bar",
+  "profile": {
+    "about": "He nobe pies fe rapusso dicsapfo tokemo jeto ceches iwsogi higad va ek muzpemem icicipdo nop dadehle mo. Begcewbe zowamju novihov ujopor osbu ruape ec puovugoc buggub cimob ko piko ohi ciham ji. Ujaabe suhemwip sim vu bof ozi cinil guj cipze hapi vuovewa odicawka vagin hov hip wifzer.",
+    "bio": "Tinmalom doeg adce cibvaofi ik we kowah zi ziahuzew gil cevdobni fo. Dem na mihi fibuv uni riol ru tereli cusakaihi hajif ci miavwok kapjo zokceb aj ni ifitejod. Juzduwdid ruwu buk reghuket bopruje zucocure udu mekav lihefam hogi owpamobu suz."
+  },
+  "apiKey": "4f1a0c74da38b4fb0ed9957849fc1557889f60eefd0c99673dc6fa849af4697e",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
