@@ -1,0 +1,26 @@
+{
+  "name": "Stephen Singleton",
+  "age": 27,
+  "address": {
+    "street": "Ogeke Street",
+    "city": "Joitibov",
+    "state": "WI",
+    "zip": "44584"
+  },
+  "contact": {
+    "phone": "(788) 360-8450",
+    "servicePhone": "800254996"
+  },
+  "birthday": "1965-01-16T07:27:07.906Z",
+  "ip": "16.31.140.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Liir horoba ode dusos jira pabowuk gernuka calas julat juh fuarpo gaehvo. Vibod pucdazlew bo alurez kaherca weep lev lezagca lik insobut cidlub pap motalpam aj so roh jiktojcif. Kednev mokragul ki gelu fi cospop hupaz selrarte nudsoaza tilof ow toboafi.",
+    "bio": "Lacu nuhnu wecazrep zag fon saggot pe ihunil buwage ilutatlic cuuzaje iwi nes jugpathu. Ud oloab vozefmo lof haz nagdif tunanuj sehnu gif acaliduma uca vidzabrun ja irjimpep ridgohab uppumo naligeh mirozuaf. Gad le pan kujva vaj mufhulo sob cohe ecohij assu todu ivcejon vijeina. Buc jov pasojo do wuj mud weminite uvwo gamel nolnewe munzug wekpacce. Do afko nizodpat otipi lep ve gorav agda sodebho wihpuhul ikuziron maesipoj lilof pobe wadibsus. Kute gihdinru hosameko uv ugu bitatra higgu unu maztivlu emul rofitsib zawvakhum dilup milekdo jus gaseza."
+  },
+  "apiKey": "cdf9fdc733bd274c7c5cd5dfd342114d673c3b2aebb436b965a3c2911c8eb4a3",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
