@@ -1,0 +1,26 @@
+{
+  "name": "Jacob Holt",
+  "age": 28,
+  "address": {
+    "street": "Mantaf Trail",
+    "city": "Vesihba",
+    "state": "PA",
+    "zip": "48660"
+  },
+  "contact": {
+    "phone": "(543) 209-4469",
+    "servicePhone": "800345719"
+  },
+  "birthday": "1975-10-24T06:15:41.796Z",
+  "ip": "206.49.226.146",
+  "foo": "bar",
+  "profile": {
+    "about": "Fovtaglan ro ejze eb uvpubho hit uzoari kuizetar mu em nudrilik ci purriceh. Ru mempet ro luk evo rave zaspobem zeg kogat bab tizad fugbo idkeica nofenko. Rin tizsesap lorik lozjodga kad kozhas as bape koz vok idamwe kuzhuv votot rimiva dujmilo. Dizeci foru uktu mandaneh rodhizaw teb cawudi fisi wuepuzo coderi lo pon. Retajaj ho pufupwa ihged robi uza une paibeij fiomihag riwca jodwe bul ram.",
+    "bio": "Vono wog cozolbol eg uc biroh fazac lizibik varehif bom bimeseovo isool rek ca omka fuzovuw ze iv. Isonu hudbidov mas apusikvu pujecu bojca kuhob kusdon wabho pojza coku ifawu ib guose nigeesu bovdumhu. Caedide kamul hep casu cul ro len ipgetsa vu enodka evo tekkaz gawvohwap orda cud joevilip."
+  },
+  "apiKey": "19adec57f1f964f196813259c5add4b621fb56c5f2bf9f6ccc28e78583077ee3",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
