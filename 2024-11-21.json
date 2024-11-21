@@ -1,0 +1,26 @@
+{
+  "name": "Howard Vaughn",
+  "age": 25,
+  "address": {
+    "street": "Wuhet Road",
+    "city": "Kanegow",
+    "state": "NY",
+    "zip": "23042"
+  },
+  "contact": {
+    "phone": "(381) 756-1479",
+    "servicePhone": "800625415"
+  },
+  "birthday": "1998-08-28T10:31:33.930Z",
+  "ip": "88.34.173.175",
+  "foo": "bar",
+  "profile": {
+    "about": "Ezsu no nal mi becugve jajbu cec wifken bam ub lab si. Rocelmiz asu tud lunutsef fidvapbi idurun ulezitaka waba neve pothito ji lezfedu ko. Tel ra nocwejmad jofovun lonso vitowke semonov ki cez fidoraji oggokot efunik difmoz dovahuc.",
+    "bio": "Kafe nelatibo sij ziideij pupeswah ruwege gakacu deug wa anawa nulodsoj nivofa amo. Mezfouj gan suoppa ca ajijitvi bad reze wokov mahutba daroriko fofup edisulit hiseva pudub. Ge potsa kibmej lag sujmufu vojme osobot tuv reebwa zas ithunzil alacag dida suj. Adu mekiw ligteos ha vipnulom tazpif nuvbiido kiwwuj josgaskiw te ji duov mendem diple pe fo otki ukhuler."
+  },
+  "apiKey": "8e49bb54f5bd4ba935f76967802b59e8803dee5acb1aa31b63dbaa7e1db3cb77",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
