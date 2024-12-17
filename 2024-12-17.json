@@ -1,0 +1,26 @@
+{
+  "name": "Andre Daniels",
+  "age": 60,
+  "address": {
+    "street": "Babra Lane",
+    "city": "Huferwu",
+    "state": "TX",
+    "zip": "50803"
+  },
+  "contact": {
+    "phone": "(515) 352-1624",
+    "servicePhone": "800365794"
+  },
+  "birthday": "2005-01-01T01:42:32.050Z",
+  "ip": "74.0.148.201",
+  "foo": "bar",
+  "profile": {
+    "about": "Ige honukidi nabel wiejted uvezo ufusu sop erfebu dujcuh pi diduh tagef ipugopu afuitu cazomtel be cizwatiw obtikom. Alteb ragka nal bacosrof gibivsu gair guve pumauwu nur ce orawo ho favohho. Ba wodpezuk sewpukor geruj kewhor ikefuner efcup pobeg oje ikcep iselik ehas uw duv hal logobgo ogo.",
+    "bio": "Fi ka lit voowa efegecu id ru pibbabag deluad getu laane ru tocaboni. Rikgor dol limro zu atdiv efidud edukuw dimmunato naf zodsek im pet buvpu cegkew. Al zokeoce ubacok malo soz hepi foinini cerfidif nugjapo ul tek za suzaldel ud."
+  },
+  "apiKey": "a3f0a7dc5b4efb364ee9688868c407c065bb55620c38e05f68c0aeb74d2ae44d",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
